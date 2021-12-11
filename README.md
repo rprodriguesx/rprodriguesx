@@ -4,14 +4,14 @@
 
 ![Rafael GitHub stats](https://github-readme-stats.vercel.app/api?username=rprodriguesx&show_icons=true&theme=radical)
 
-## Tecnologias que estudo:
+### Tecnologias que estudo:
 
 ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
 ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 
-## Próximas tecnologias que vou estudar:
+### Próximas tecnologias que vou estudar:
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
@@ -22,9 +22,9 @@
 
 
 
-## Além dessas tecnologias eu gosto de estudar ferramentas de design, ux/ui, como photoshop, figma, adobe xd e arrisco um pouco nas ferramentas de edição de vídeo, nada que uma boa vídeo aula não ajude hahahaha
+### Além dessas tecnologias eu gosto de estudar ferramentas de design, ux/ui, como photoshop, figma, adobe xd e arrisco um pouco nas ferramentas de edição de vídeo, nada que uma boa vídeo aula não ajude hahahaha
 
-## Entre em contato:
+### Entre em contato:
 
 ![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 [![Contato](https://img.shields.io/website?label=Contato&style-the-badge&url=https://linktr.ee/rprodrigues)](https://linktr.ee/rprodrigues)
