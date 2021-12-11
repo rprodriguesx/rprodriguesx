@@ -1,6 +1,6 @@
-### Olá, Rafael na voz 😆🌎
+# Olá, Rafael na voz 😆🌎
 
-## Tenho 22 anos, sou um aficionado por tecnologia e estou mergulhando de cabeça nesse mundo, estudo em plataformas como alura e origamid.  
+### Tenho 22 anos, sou um aficionado por tecnologia e estou mergulhando de cabeça nesse mundo, estudo em plataformas como alura e origamid.  
 
 ![Rafael GitHub stats](https://github-readme-stats.vercel.app/api?username=rprodriguesx&show_icons=true&theme=radical)
 
@@ -26,5 +26,5 @@
 
 ## Entre em contato:
 
-[![Contato](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://linktr.ee/rprodrigues)
+[![Contato](https://img.shields.io/website?label=linktr.ee/rprodrigues.com&style-the-badge&url=https://linktr.ee/rprodrigues)](https://linktr.ee/rprodrigues)
 ![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
