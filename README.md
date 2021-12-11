@@ -26,5 +26,6 @@
 
 ## Entre em contato:
 
-[![Contato](https://img.shields.io/website?label=Contato&style-the-badge&url=https://linktr.ee/rprodrigues)](https://linktr.ee/rprodrigues)
 ![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+[![Contato](https://img.shields.io/website?label=Contato&style-the-badge&url=https://linktr.ee/rprodrigues)](https://linktr.ee/rprodrigues)
+
