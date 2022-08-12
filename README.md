@@ -1,6 +1,6 @@
 # Olá, Rafael na voz 😆🌎
 
-### Tenho 22 anos, sou um aficionado por tecnologia e estou mergulhando de cabeça nesse mundo, estudo em plataformas como origamid.  
+### Tenho 22 anos, sou um aficionado por tecnologia e estou mergulhando de cabeça nesse mundo, estudo pela plataforma origamid.  
 
 ![Rafael GitHub stats](https://github-readme-stats.vercel.app/api?username=rprodriguesx&show_icons=true&theme=radical)
 
